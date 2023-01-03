@@ -41,3 +41,4 @@ D. Mengganti Hostname ESP32
 E. Mengirim Data Sensor ke Database
 1.Buatlah script program seperti berikut ini Upload program di atas. Kemudian buka serial monitor untuk mengetahui IP 
 Address ESP32. Akses IP Address ESP32 pada browser laptop.
+![job3e](https://user-images.githubusercontent.com/121847212/210321283-abc4b58f-6923-41a1-9a2f-59f73f7fb01f.jpeg)
